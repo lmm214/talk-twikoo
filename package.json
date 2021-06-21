@@ -1,0 +1,10 @@
+{
+    "name": "talk-twikoo",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "lmm214",
+    "dependencies": {
+        "@cloudbase/node-sdk": "^2.4.4",
+        "request": "^2.88.2"
+    }
+}
